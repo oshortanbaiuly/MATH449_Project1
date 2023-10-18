@@ -1,4 +1,4 @@
-# MATH449_Project1
+# MATH449_Project
 
 This project is done as a part of MATH449 Statistical Programming course at Nazarbayev University.
 
